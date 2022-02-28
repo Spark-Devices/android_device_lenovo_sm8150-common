@@ -1,4 +1,4 @@
-
+ 
 # Audio
 audio.offload.min.duration.secs=30
 persist.vendor.audio.hac.enable=false
@@ -45,9 +45,6 @@ debug.cpurend.vsync=false
 
 # GPS
 persist.backup.ntpServer=0.pool.ntp.org
-
-# Graphics
-ro.surface_flinger.supports_background_blur=1
 
 # IOP
 vendor.iop.enable_prefetch_ofr=0
