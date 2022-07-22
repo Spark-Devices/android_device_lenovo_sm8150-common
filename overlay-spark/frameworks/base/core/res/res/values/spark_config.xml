@@ -39,4 +39,7 @@
                                                                                 
     <!-- Should we filter any display modes which are unmapped? -->
     <bool name="config_filterDisplayModes">true</bool>
+
+    <!-- Whether the device supports Smart Pixels -->
+    <bool name="config_supportSmartPixels">true</bool>
 </resources>
