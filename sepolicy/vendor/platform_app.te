@@ -7,3 +7,4 @@ hal_client_domain(platform_app, vendor_hal_soter);
 allow platform_app vendor_sysfs_battery_supply:dir search;
 allow platform_app vendor_sysfs_battery_supply:file r_file_perms;
 allow platform_app vendor_sysfs_kgsl:file r_file_perms;
+allow platform_app sysfs_device_info:lnk_file read;
