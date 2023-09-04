@@ -16,4 +16,6 @@
     <!-- Spark maintainer -->
     <string name="spark_maintainer">Chema F. (@chematelegram)</string>
 
+    <!-- Whether to enable Lineage Fast Charge Prefernece -->
+    <bool name="config_lineageFastChargeSupported">true</bool>
 </resources>
